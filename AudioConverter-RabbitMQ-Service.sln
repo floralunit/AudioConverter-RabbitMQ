@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendMessagesApi", "SendMessagesAPI\SendMessagesApi.csproj", "{4F8C07DA-3174-4F1A-AAB5-2588E1E44390}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReceiveMessagesService", "ReceiveMessagesService\ReceiveMessagesService.csproj", "{3C990D3A-0334-49E3-B38A-EF8D516C0F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8C07DA-3174-4F1A-AAB5-2588E1E44390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8C07DA-3174-4F1A-AAB5-2588E1E44390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8C07DA-3174-4F1A-AAB5-2588E1E44390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8C07DA-3174-4F1A-AAB5-2588E1E44390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C990D3A-0334-49E3-B38A-EF8D516C0F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C990D3A-0334-49E3-B38A-EF8D516C0F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C990D3A-0334-49E3-B38A-EF8D516C0F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C990D3A-0334-49E3-B38A-EF8D516C0F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED783FB-17D5-47AA-B5A3-F0B5CD72835B}
+	EndGlobalSection
+EndGlobal
