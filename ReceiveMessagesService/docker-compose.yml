@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  receivemessagesservice:
+    image: ${DOCKER_REGISTRY-}receivemessagesservice
+    build:
+      context: .
+      dockerfile: Dockerfile

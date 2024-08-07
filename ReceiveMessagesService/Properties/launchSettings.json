@@ -7,6 +7,9 @@
         "DOTNET_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://localhost:5000/"
+    },
+    "Docker": {
+      "commandName": "Docker"
     }
   }
 }
